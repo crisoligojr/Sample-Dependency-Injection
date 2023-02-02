@@ -1,0 +1,10 @@
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\bin\Debug\TestProject.DependencyInjection.CLI.exe.config
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\bin\Debug\TestProject.DependencyInjection.CLI.exe
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\bin\Debug\TestProject.DependencyInjection.CLI.pdb
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\obj\Debug\TestProject.DependencyInjection.CLI.csproj.AssemblyReference.cache
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\obj\Debug\TestProject.DependencyInjection.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\obj\Debug\TestProject.DependencyInjection.CLI.exe
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\obj\Debug\TestProject.DependencyInjection.CLI.pdb
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\bin\Debug\Ninject.dll
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\bin\Debug\Ninject.xml
+C:\Users\Realtair.Sign\Practice Projects\TestProject.DependencyInjection.CLI\obj\Debug\TestProject.DependencyInjection.CLI.csproj.CopyComplete
